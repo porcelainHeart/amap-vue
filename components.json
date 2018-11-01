@@ -1,0 +1,4 @@
+{
+  "vmap": "./packages/vmap",
+  "marker": "./packages/marker"
+}
