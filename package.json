@@ -1,6 +1,6 @@
 {
   "name": "amap-vue",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "description": "AMap components library for Vue 2.x ",
   "author": "wujinze <cixinguisu@gmail.com>",
   "main": "packages/index.js",
