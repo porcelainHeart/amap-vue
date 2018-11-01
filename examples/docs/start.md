@@ -16,14 +16,14 @@
 
 ```js
 import Vue from 'vue';
-import VAMap from 'vamap';
+import AMapVue from 'amap-vue';
 import App from './App.vue';
 
-Vue.use(VAMap, { key: '<你的高德API KEY>' });
+Vue.use(AMapVue, { key: '<你的高德API KEY>' });
 
 new Vue({
   el: '#app',
   render: h => h(App)
 });
 ```
-以上代码便完成了 VAMap 的引入
+以上代码便完成了 AMapVue 的引入
